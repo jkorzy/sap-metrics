@@ -1,0 +1,23 @@
+[
+ {
+  "table":"TVDIR",
+  "data":
+  [
+   {
+    "TABNAME":"ZJKT_METRIC_CUS",
+    "AREA":"ZJKT_MV_METRIC_C",
+    "DEVCLASS":"ZJKT_METRICS_DAL",
+    "TYPE":"1",
+    "LISTE":1,
+    "DETAIL":0,
+    "OCCURS":0,
+    "CLTCODE":"",
+    "BASTAB":"X",
+    "NEWGENER":"",
+    "GENDATE":"2024-09-22",
+    "GENTIME":"18:10:01",
+    "FLAG":""
+   }
+  ]
+ }
+]

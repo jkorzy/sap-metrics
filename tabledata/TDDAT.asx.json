@@ -1,0 +1,20 @@
+[
+ {
+  "table":"TDDAT",
+  "data":
+  [
+   {
+    "TABNAME":"ZJKT_METRIC_CUS",
+    "MCLASS":"",
+    "CCLASS":"&NC&",
+    "FLAG":""
+   },
+   {
+    "TABNAME":"ZMETRIC_CUS",
+    "MCLASS":"",
+    "CCLASS":"&NC&",
+    "FLAG":""
+   }
+  ]
+ }
+]

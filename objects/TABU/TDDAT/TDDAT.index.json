@@ -1,0 +1,28 @@
+[
+ {
+  "table":"TDDAT",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"TABNAME",
+      "value":"ZJKT_METRIC_CUS"
+     }
+    ],
+    "hash":"P1mNIgt2MoNyCSCySbgt/Gbi2oc="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"TABNAME",
+      "value":"ZMETRIC_CUS"
+     }
+    ],
+    "hash":"kGDPzVh3Tk1hEKBiJSQSUjTXrwM="
+   }
+  ]
+ }
+]
