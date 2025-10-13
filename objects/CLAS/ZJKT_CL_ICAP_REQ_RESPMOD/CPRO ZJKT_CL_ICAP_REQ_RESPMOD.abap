@@ -1,0 +1,2 @@
+  PROTECTED SECTION.
+    METHODS: create_request REDEFINITION.
